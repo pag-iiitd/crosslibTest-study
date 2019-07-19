@@ -5,16 +5,14 @@ The detailed study is available as a publication at https://ieeexplore.ieee.org/
 
 Theme-wise matches from testing and training library pairs, along with the similarity scores may be found in directories listed below:
 
-String and numeric manipulation
+- String and numeric manipulation
 
-Structural validation
+- Structural validation
 
-Natural language processing
+- Natural language processing
 
-Inter-theme
+- Inter-theme
 
 Note: The excel sheets in the directories are named with convention match_\<TrainingProjectName\>_\<QueryProjectName\>.xlsx
 
-Defects Revealed
-
-The Defects.xlsx sheet includes description of defects revealed from the study, along with the link to reported issues, if any.
+Defects Revealed: The Defects.xlsx sheet includes description of defects revealed from the study, along with the link to reported issues, if any.
